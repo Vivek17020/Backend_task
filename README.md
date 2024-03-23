@@ -56,5 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![output](https://github.com/Nishantth1/DataTableAPI/assets/97899868/05ce30bb-09e5-4ca2-b267-ac77414e515c)
 ![out2](https://github.com/Nishantth1/DataTableAPI/assets/97899868/f5e7f69a-99d1-4cfb-8aec-aa6ec3aea9ae)
 
+![image](https://github.com/Vivek17020/Backend_task/assets/116427464/631a28dc-35cf-4e5d-b7c7-ff7b4f5361cb)
 
 
+![image](https://github.com/Vivek17020/Backend_task/assets/116427464/dafd6370-ce72-44b9-8a25-680019591a64)
